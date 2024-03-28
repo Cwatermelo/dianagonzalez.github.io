@@ -1,1 +1,1 @@
-alert("This page was created by [Your Name].");
+alert("This page was created by [Diana].");
